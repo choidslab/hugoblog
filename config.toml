@@ -77,7 +77,7 @@ enableEmoji = true
       #   weight = 6
     [languages.en.params]
       # site description
-      description = "About LoveIt Theme"
+      description = "DS Lab Blog"
       # site keywords
       keywords = ["Theme", "Hugo"]
       # App icon config
@@ -149,7 +149,7 @@ enableEmoji = true
         Instagram = ""
         Facebook = ""
         Email = "dev.dschoi@gmail.com"
-        RSS = true
+        RSS = false
 
 [params]
   # LoveIt theme version
@@ -208,7 +208,7 @@ enableEmoji = true
     custom = ''
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
-    hugo = true
+    hugo = false
     # whether to show copyright info
     # 是否显示版权信息
     copyright = true
@@ -217,7 +217,7 @@ enableEmoji = true
     author = true
     # site creation time
     # 网站创立年份
-    since = 2022
+    since = 2018
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     # icp = ""
@@ -305,7 +305,7 @@ enableEmoji = true
     # KaTeX mathematical formulas config (KaTeX https://katex.org/)
     # KaTeX 数学公式配置 (KaTeX https://katex.org/)
     [params.page.math]
-      enable = false
+      enable = true
       # default block delimiter is $$ ... $$ and \\[ ... \\]
       # 默认块定界符是 $$ ... $$ 和 \\[ ... \\]
       blockLeftDelimiter = ""
