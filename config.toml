@@ -27,7 +27,7 @@ enableEmoji = true
     # default amount of posts in each pages
     paginate = 12
     # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = ""
+    googleAnalytics = "UA-222691369-1"
     # copyright description used only for seo schema
     #copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # Menu config
@@ -420,8 +420,8 @@ enableEmoji = true
       # Publisher info
       # 出版者信息
       [params.page.seo.publisher]
-        name = "xxxx"
-        logoUrl = "/images/avatar.png"
+        name = "DS Lab"
+        logoUrl = "/images/ds.jpg"
 
   # TypeIt config
   # TypeIt 配置
