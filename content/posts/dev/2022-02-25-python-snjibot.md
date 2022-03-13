@@ -11,24 +11,16 @@ tags: [python, selenium, pytube, automation]
 ---
 
 ## 개요
-
-
-## 소스코드 구조
-![]({{site.url}}/assets/post_img/python/snjibot.png)
-
-
-## 상세 소스코드
-
-
-## 향후
-headless 방식으로 개선하고 중복된 코드를 제거하여 리팩토링 할 계획이다.
+작성중입니다.
 
 ## 소스코드 구조
 ![]({{site.url}}/assets/post_img/python/snjibot.png)
 
-
 ## 상세 소스코드
-ㅅㅏ
+소스코드 내용 작성
+
+## 소스코드 구조
+![]({{site.url}}/assets/post_img/python/snjibot.png)
 
 ## 향후
 headless 방식으로 개선하고 중복된 코드를 제거하여 리팩토링 할 계획이다.
