@@ -7,7 +7,7 @@ comments: true
 author: DSLab
 background: '/img/bg-index.jpg'
 categories: [dev]
-tags: [python, selenium, pytube, automation]
+tags: [python, Coding Test, Code Snippet]
 ---
 
 ## 개요
