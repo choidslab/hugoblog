@@ -127,7 +127,7 @@ enableEmoji = true
           # URL of avatar shown in home page
           avatarURL = "/images/ds.jpg"
           # title shown in home page (HTML format is supported)
-          title = "Security Researcher"
+          title = "Researcher"
           # subtitle shown in home page
           subtitle = "You'll never walk alone."
           # whether to use typeit animation for subtitle
